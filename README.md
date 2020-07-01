@@ -1,4 +1,4 @@
-# Prismatic Rainbow (Spark AR Filter):
+# prismatic rainbow (Spark AR Filter):
 ____________________________________________________________________________________________________________________________________
 A rainbow gradient filter, sample pictures taken through this filter are amazing in all surroundings, and tested throughout.
 
